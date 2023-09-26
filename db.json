@@ -1,0 +1,23 @@
+{
+    "video": [
+      {
+        "title": "The Flash",
+        "imageUrl": "https://www.ociostock.com/productos/imagenes/img_315873_2e07f68aebfebab773f36d001c2c2292_16.jpg",
+        "videoUrl": "https://www.ociostock.com/productos/imagenes/img_315873_2e07f68aebfebab773f36d001c2c2292_16.jpg",
+        "category": "Back End",
+        "description": "Hola Mundo",
+        "id": "d8f9bb9a-1490-4f19-9248-19f632e00766"
+      }
+    ],
+
+    "categoria": [
+        {
+          "name": "The Flash",
+          "color": "#ffffff",
+          "description": "Hola Mundo",
+          "id": "d8f9bb9a-1490-4f19-9248-19f632e00766"
+        }
+      ]
+    
+    
+    }
